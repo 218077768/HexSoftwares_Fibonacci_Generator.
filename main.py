@@ -28,6 +28,7 @@ def fibonacci(num, cal, k):
 
         arr2.append(1)
         arr2.append(1)
+        arr2.append(0)
         arr2.reverse()
         arr2.append(ret)
 
